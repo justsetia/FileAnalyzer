@@ -10,7 +10,7 @@ Quick Run (Windows)
 
     Download the full project: Click the green “Code” button at the top of this repository and select “Download ZIP”.
     Extract the downloaded folder to your computer.
-    Open the dist/ folder and run FileAnalyzer.exe.
+    Open and run MyScanner.exe.
         Note: Windows may flag this as “unrecognized.” This is normal for custom-compiled applications.
 
 🔍 Features
